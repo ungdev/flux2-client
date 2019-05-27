@@ -23,7 +23,7 @@
   "homepage": "https://github.com/prudywsh/flux2-client#readme",
   "dependencies": {
     "babel-core": "^6.24.0",
-    "babel-loader": "^6.4.1",
+    "babel-loader": "^7.1.5",
     "babel-polyfill": "^6.23.0",
     "babel-preset-es2015": "^6.24.0",
     "babel-preset-react": "^6.23.0",
