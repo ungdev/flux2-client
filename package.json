@@ -49,7 +49,7 @@
     "router5": "^4.5.2",
     "sails.io.js": "^1.1.6",
     "sass-loader": "^6.0.3",
-    "socket.io-client": "^1.7.3",
+    "socket.io-client": "^3.1.0",
     "style-loader": "^0.16.1",
     "uglifyjs-webpack-plugin": "^0.4.3",
     "webpack": "^2.2.1",
